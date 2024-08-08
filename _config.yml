@@ -1,6 +1,6 @@
 title: JIHwan blog      "JiHwan": Unknown word
 description: > # this means to ignore newlines until "baseurl:"
- 새시즌 챌린저 도전
+  새시즌 챌린저 도전
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jihonai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -9,7 +9,7 @@ blog_theme: light # Or use dark
 # Profile information
 name: JiHwan
 tagline: student
-about-description: 탑레: 마스터 100점/ 대리문의: 010 5653 6266
+about-description: 탑레- 마스터 100점/ 대리문의- 010 5653 6266
 pic: master.jpg # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
